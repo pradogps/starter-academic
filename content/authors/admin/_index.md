@@ -3,7 +3,7 @@ title: Gustavo Prado
 role: Estatística e Ciência de dados
 avatar_filename: img_0734.jpeg
 organizations:
-  - name: Stanford University
+  - name: Universidade de São Paulo
     url: ""
 superuser: true
 authors:
@@ -11,10 +11,10 @@ authors:
 bio: Interesse em ciência de dados, programação em R e python.
 interests:
   - R
-  - python
+  - Python
   - Machine learning
   - Deep learning
-  - statistics.
+  - Statistics.
 social:
   - icon: envelope
     icon_pack: fas
@@ -27,15 +27,9 @@ social:
     link: https://github.com/pradogps
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Statistics and Data Science
+      institution: University of São Paulo
+      year: ""
 email: ""
 user_groups:
   - Researchers
