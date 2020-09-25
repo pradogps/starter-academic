@@ -39,28 +39,29 @@ user_groups:
 <button class="btn btn-primary" data-toggle="collapse" data-target="#portugues"><i class="icon-chevron-right"></i> Português </button>
 <button class="btn btn-primary" data-toggle="collapse" data-target="#ingles"><i class="icon-chevron-right"></i> English</button>
 <button class="btn btn-primary" data-toggle="collapse" data-target="#espanhol"><i class="icon-chevron-right"></i> Español</button>
-<br> <br>
+<br> 
+<br>
 <div class="accordion-group">
-    <div class="collapse show" id="portugues"  data-parent="#myGroup">
-          <div class="card card-body">
+<div class="collapse show" id="portugues"  data-parent="#myGroup">
+<div class="card card-body">
   
 Gustavo é estudante de Estatística e Ciência de Dados no ICMC-USP.
-  </div>
-    </div>
+</div>
+</div>
 
-   <div class="collapse indent" id="ingles"  data-parent="#myGroup">
- <div class="card card-body">
-
-Gustavo é estudante de Estatística e Ciência de Dados no ICMC-USP.
-
-  </div>
-   </div>
-
-   <div class="collapse" id="espanhol"  data-parent="#myGroup">
-  <div class="card card-body">
+<div class="collapse indent" id="ingles"  data-parent="#myGroup">
+<div class="card card-body">
 
 Gustavo é estudante de Estatística e Ciência de Dados no ICMC-USP.
 
-  </div>
-   </div>
+</div>
+</div>
+
+<div class="collapse" id="espanhol"  data-parent="#myGroup">
+<div class="card card-body">
+
+Gustavo é estudante de Estatística e Ciência de Dados no ICMC-USP.
+
+</div>
+</div>
 </div>
