@@ -57,7 +57,7 @@ Gustavo é estudante de Estatística e Ciência de Dados no ICMC-USP.
    </div>
 
    <div class="collapse" id="espanhol"  data-parent="#myGroup">
-        <div class="card card-body">
+  <div class="card card-body">
 
 Gustavo é estudante de Estatística e Ciência de Dados no ICMC-USP.
 
