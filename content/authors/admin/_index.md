@@ -1,7 +1,7 @@
 ---
 title: Gustavo Prado
 role: Estatística e Ciência de dados
-avatar_filename: [](https://drive.google.com/file/d/1-RsQxVkKWZdxL5pF35_uePFjeKzWacvt/view?usp=sharing)
+avatar_filename: 
 organizations:
   - name: Universidade de São Paulo
     url: ""
