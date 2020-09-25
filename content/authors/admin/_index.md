@@ -1,7 +1,7 @@
 ---
 title: Gustavo Prado
 role: Estatística e Ciência de dados
-avatar_filename: img_0734.jpeg
+avatar_filename: https://drive.google.com/file/d/1-RsQxVkKWZdxL5pF35_uePFjeKzWacvt/view?usp=sharing
 organizations:
   - name: Universidade de São Paulo
     url: ""
@@ -14,7 +14,7 @@ interests:
   - Python
   - Machine learning
   - Deep learning
-  - Statistics.
+  - Statistics
 social:
   - icon: envelope
     icon_pack: fas
